@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is 0E47-38F4
+
+ Directory of C:\Users\itsupport\Desktop\Project
+
+28-07-2020  20:12    <DIR>          .
+28-07-2020  20:12    <DIR>          ..
+28-07-2020  20:07                 0 demo.txt
+28-07-2020  19:28                21 index.html
+28-07-2020  20:12                 0 test1.txt
+28-07-2020  19:28               358 text.txt
+               4 File(s)            379 bytes
+               2 Dir(s)   3,436,826,624 bytes free
